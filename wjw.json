@@ -56,9 +56,7 @@
 {"key":"讴歌","name":"🅾讴歌","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"https://woog.nxog.eu.org","filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
 {"key":"多多","name":"🌟多多","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"https://tv.yydsys.top","filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star2","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://1.star2.cn","commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}},
-{"key":"闪电","name":"⚡闪电","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"https://sduc.cloud/","filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}},
-{"key":"FourKZN","name":"️4️⃣4k指南","type":3,"api":"csp_FourKZN","searchable":1,"changeable":0,"ext":{"commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"}}
-
+{"key":"闪电","name":"⚡闪电","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"https://sduc.cloud/","filter":"https://raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"}}
 ],
 "parses": [{
 		"name": "Web聚合",
